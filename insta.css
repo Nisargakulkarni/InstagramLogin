@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    /* border: 1px solid red; */
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 50px;
+}
+
+#in{
+    /* border: 2px solid blue; */
+    height: 565px;
+    width: 800px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#in1{
+    height: 580px;
+    width: 390px;
+    background-image: url("./Photos/instaside.jpg");
+    background-size: cover;
+    /* position: relative; */
+}
+
+#img{
+    height: 497px;
+    position: relative;
+    top: 21px;
+    left: 142px;
+    width: 230px;
+}
+#in2{
+    height: 500px;
+    width: 300px;
+    /* align-items: center; */
+}
+
+#in21{
+    /* border: 1px solid gold; */
+    height: 51px;
+    width: 300px;
+    padding-top: 40px;
+    /* padding-bottom: 10px; */
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+
+#max{
+    /* border: 1px solid red; */
+    height: 240px;
+}
+#max1{
+    /* padding: 10px 35px ; */
+    margin-top: 10px;
+    height: 30px;
+}
+#max2{
+    /* padding: 10px 35px ; */
+    margin-top: 10px;
+    height: 30px;
+}
+#max3{
+    margin-top: 20px;
+    /* padding: 10px 35px ; */
+    height: 30px;
+}
+#max4{
+    margin-top: 20px;
+    /* border: 1px solid purple; */
+    height: 15px;
+    width: 270px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.a{
+    height: 0px;
+    width: 120px;
+    border: 1px solid gray;
+}
+#max5{
+    /* border: 1px solid purple; */
+    height: 20px;
+    width: 270px;
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#imgf{
+    height: 20px;
+    width: 20px;
+}
+#a1{
+    /* border: 1px solid red; */
+    height: 20px;
+    width: 20px;
+    padding-right: 5px;
+}
+#anc1{
+    color: #4cb5f9;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-decoration: none;
+}
+#max6{
+    /* border: 1px solid purple; */
+    height: 20px;
+    width: 270px;
+    margin-top: 10px;
+}
+#anc2{
+    color: #426b91;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-decoration: none;
+    font-size: 13px;
+}
+.bo{
+    border: 1px solid gray;
+}
+
+#bo1{
+    margin-top: 15px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#bo2{
+    height:30px ;
+    /* border: 1px solid red; */
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#bo3{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#anc3{
+    color: #2790e9;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-decoration: none;
+}
+
+#get{
+    margin-top: 10px;
+    font-size: 13px;
+}
+#i{
+    height: 50px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#geti1{
+    padding-right: 10px;
+    height: 50px;
+    width: 150px;
+}
+#geti2{
+    height: 49px;
+    width: 150px;
+}
+
+
+
+
+
+
